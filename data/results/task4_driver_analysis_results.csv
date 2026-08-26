@@ -1,0 +1,8 @@
+Feature,Beta_Judge,Beta_Fan,P_Value,Significant_Diff
+Intercept,1.34,1.243,0.594977740332709,False
+C(Industry_Simple)[T.Athlete],-0.276,-0.22,0.6906858908391695,False
+C(Industry_Simple)[T.Other],-0.452,-0.471,0.906601382341907,False
+C(Industry_Simple)[T.Singer/Rapper],-0.094,-0.043,0.7475020898190488,False
+C(Industry_Simple)[T.Social Media Personality],0.041,0.091,0.8893179579777011,False
+C(Industry_Simple)[T.TV Personality],-0.44,-0.312,0.40208191516339364,False
+Age,-0.036,-0.034,0.637351888233938,False
